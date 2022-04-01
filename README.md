@@ -20,6 +20,7 @@ The above graph shows the average time that a bike is checked out for a rider.  
 
 
 ![](/checkout_time.png)
+
 This trip duration graph shows how long each gender checks out a bike.  More males check out bikes with the most being 5 minutes.  Less females rent out than males but the majority of the females rent the bikes out for 7 minutes.
 
 
