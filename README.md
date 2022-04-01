@@ -25,6 +25,7 @@ This trip duration graph shows how long each gender checks out a bike.  More mal
 
 
 ![](/number_trips.png)
+
 This first heat map shows what time of day and day of week that have the most bike trips.  I would say that 8am, 5pm and 6pm have the most bike trips during the weekdays.  The weekend starts to pick up activity around 10am and goes until 7pm with Saturday being busier than Sunday.
 
 
